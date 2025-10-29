@@ -33,7 +33,7 @@ Everything happens on the blockchain, making the voting process transparent, fai
 
 ## 🔗 Deployed Smart Contract
 **Remix IDE Deployment Link:**  
-[[https://sepolia.etherscan.io/address/0x7f13976279b3Da9f09b898FEECBcBA3C32AA93e0]]
+[[https://sepolia.etherscan.io/address/0x7f13976279b3Da9f09b898FEECBcBA3C32AA93e0]];
 **Contract Address:** `<0x7f13976279b3Da9f09b898FEECBcBA3C32AA93e0>`
 ---
 ## 🧱 Smart Contract Code
