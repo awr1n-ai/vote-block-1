@@ -49,8 +49,7 @@ Create a new file (e.g., QuickPoll.sol) and paste in the contract code.
 
 Compile the contract using Solidity version 0.8.20 or above.
 
-Deploy the contract:https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.30+commit.73712a01.js
-
+Deploy the contract:VoteBlock - contract/awr1n.sol/ajan.sol
 Enter your poll question (string).
 
 Add your poll options (array of strings).
